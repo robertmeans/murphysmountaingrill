@@ -1,0 +1,13 @@
+*config*
+*.sass-cache*
+_images-raw
+_admin-components
+_admin
+_notes
+_video
+_Old-Site/
+_OLD-original-temp-website/
+Thumbs.db
+node_modules/
+.gitattributes
+sftp-config.json
