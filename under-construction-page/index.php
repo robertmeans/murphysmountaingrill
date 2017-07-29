@@ -1,5 +1,14 @@
 <!doctype html>
 <html lang="en">
+<!--
+  Author:       Robert Means
+                Evergreen Web Design
+  Contact:      robert@evergreenwebdesign.com
+                (303) WEBSITE
+                that's (303) 932.7483
+  Last Update:  July 28, 2017
+  Comments:     You look very nice today! :)
+-->
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="cache-control" content="no-cache">
