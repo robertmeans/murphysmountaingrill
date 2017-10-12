@@ -64,9 +64,9 @@
 	<h2>Click for larger image</h2><br />
 <div class="menu-wrap cf">
 
-	<a class="reset" href="_images/murphys-apps-02.gif" target="_blank"><img src="_images/murphys-apps-thumbnail-02.gif" alt="Appetizers"></a>
-	<a class="reset" href="_images/murphys-drinks-02.gif" target="_blank"><img src="_images/murphys-drinks-thumbnail-02.gif" alt="Drinks"></a>
-	<a class="reset" href="_images/murphys-entrees-02.gif" target="_blank"><img src="_images/murphys-entrees-thumbnail-02.gif" alt="Entreés"></a>
+	<a class="reset" href="_images/murphys-apps-03.gif" target="_blank"><img src="_images/murphys-apps-thumbnail-03.gif" alt="Appetizers"></a>
+	<a class="reset" href="_images/murphys-drinks-03.gif" target="_blank"><img src="_images/murphys-drinks-thumbnail-03.gif" alt="Drinks"></a>
+	<a class="reset" href="_images/murphys-entrees-03.gif" target="_blank"><img src="_images/murphys-entrees-thumbnail-03.gif" alt="Entreés"></a>
 
 </div><!-- .instruction-wrap -->
 
