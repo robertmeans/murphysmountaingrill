@@ -36,7 +36,7 @@
 
 <nav>
 	<ul>
-		<li><a href="#menu" class="main-nav no-active-nav">Menu</a></li>
+		<li><a href="#menu" class="main-nav no-active-nav xyz">Menu</a></li>
 		<li><a href="#contact" class="main-nav">Directions</a></li>
 	</ul>
 		<div class="phone large-gone">
